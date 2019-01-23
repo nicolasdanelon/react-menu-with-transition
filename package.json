@@ -1,0 +1,11 @@
+{
+  "name": "react-menu-with-transition",
+  "version": "1.0.0",
+  "description": "React web menu",
+  "main": "index.js",
+  "test": "test.js",
+  "repository": "https://github.com/nicolasdanelon/react-menu-with-transition",
+  "author": "Nicolas Danelon <nicolasdanelon@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
